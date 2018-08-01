@@ -1,6 +1,8 @@
 ///////////////////////////////////////
 // High Altitude Balloon Sensor Code //
 ///////////////////////////////////////
+//REU Members - Rachel Greenland, Anne-Katherine Burns, Ruby O'Brien Metzger, Valeria Rascon, Amy Pierce, Tru Quach, Brian Hollman, 
+//Anthony Holman, Miguel Castro, Sean Dougall, 
 
 //////////////////////////////////////////////////////////
 //                Legend                                //    
